@@ -27,7 +27,3 @@ The solutions are structured by week:
 ## ⚖️ Academic Honesty Policy
 
 These solutions are published strictly for educational, review, and reference purposes. If you are currently taking CS50P, please follow Harvard’s [CS50 Academic Honesty Policy](https://cs50.harvard.edu/python/honesty/) and construct your own solutions.
-
-## 📄 License
-
-This repository is licensed under the [MIT License](LICENSE).
